@@ -7,7 +7,7 @@ I build **clean, scalable and high-performance web applications** with a strong 
 
 ### Tech
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,sass,java,mongodb,vscode,idea,webstorm,figma,canva,ps,ai,ae,xd,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,nodejs,sass,java,mongodb,vscode,idea,webstorm,figma,ps,ai,ae,xd,git" />
 </p>
 
 
