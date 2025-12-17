@@ -1,16 +1,44 @@
-## Hi there 👋
+👋 Hi, I'm Raman Hariri
 
-<!--
-**hariri97/hariri97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer with professional experience in React, Java, PHP/MySQL and modern web technologies.
+I focus on building clean, scalable and high-performance web applications with a strong emphasis on UX and maintainability.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend
+
+JavaScript (ES6+)
+
+React.js
+
+Vue.js
+
+HTML5, SCSS
+
+Responsive & Mobile-First Design
+
+Backend
+
+Java
+
+PHP
+
+Node.js
+
+REST APIs
+
+Databases
+
+MySQL
+
+MongoDB
+
+Tools & Workflow
+
+Git & GitHub
+
+CI/CD
+
+WordPress (Elementor, Microthemer)
+
+Figma, Adobe Photoshop, Illustrator
